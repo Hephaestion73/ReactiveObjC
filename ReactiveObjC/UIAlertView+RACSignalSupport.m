@@ -12,7 +12,7 @@
 #import "NSObject+RACDeallocating.h"
 #import "NSObject+RACDescription.h"
 #import <objc/runtime.h>
-
+/*
 @implementation UIAlertView (RACSignalSupport)
 
 static void RACUseDelegateProxy(UIAlertView *self) {
@@ -61,3 +61,4 @@ static void RACUseDelegateProxy(UIAlertView *self) {
 }
 
 @end
+*/

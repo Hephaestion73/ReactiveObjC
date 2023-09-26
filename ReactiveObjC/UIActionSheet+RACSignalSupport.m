@@ -12,7 +12,7 @@
 #import "NSObject+RACDeallocating.h"
 #import "NSObject+RACDescription.h"
 #import <objc/runtime.h>
-
+/*
 @implementation UIActionSheet (RACSignalSupport)
 
 static void RACUseDelegateProxy(UIActionSheet *self) {
@@ -47,3 +47,4 @@ static void RACUseDelegateProxy(UIActionSheet *self) {
 }
 
 @end
+*/
